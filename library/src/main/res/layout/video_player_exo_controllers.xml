@@ -73,6 +73,7 @@
             app:ad_marker_color="#31AA52"
             app:buffered_color="#85B1D235"
             app:played_color="#31AA52"
+            app:unplayed_color="@color/gray"
             app:scrubber_color="#31AA52" />
 
     </RelativeLayout>
